@@ -10,9 +10,3 @@
 
 
 
-
-```plaintext
-Typing... | 
-Typing... / 
-Typing... - 
-Typing... \ 
