@@ -18,3 +18,17 @@
     </p>
   </details>
 
+```javascript
+const Harendra = {
+    pronouns: "he" | "him",
+    Languages: ["JavaScript","C++", "Python"],
+    technologies: {
+        Frontend: {
+            langAndTools: ["HTML", "CSS", "JavaScript", 
+            , "Tailwind", "React.js"]
+        },
+        Backend: {
+            langAndTools: ["Express.js", "Node.js", "MongoDB"]
+        }
+    }
+};
