@@ -27,10 +27,10 @@ const Harendra = {
     technologies: {
         Frontend: {
             langAndTools: ["HTML", "CSS", "JavaScript", 
-            , "Tailwind", "React.js"]
+            , "Tailwind", "React.js" , "git/github"]
         },
         Backend: {
-            langAndTools: ["Express.js", "Node.js", "MongoDB"]
+            langAndTools: ["Express.js", "Node.js", "MongoDB" , "Postman" , "render/netlify"]
         }
     }
 };
